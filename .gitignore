@@ -1,0 +1,12 @@
+__pycache__/
+Project Source/exp_configuration.json
+Project Source/NIC_v2/NIC_v2_391/trainLogCur.txt
+Project Source/NIC_v2/NIC_v2_391/trainLogDetailsCur.txt
+Project Source/NIC_v2/NIC_v2_391/NIC_solver_MobileNetV1.prototxt
+Project Source/NIC_v2/NIC_v2_79/trainLogCur.txt
+Project Source/NIC_v2/NIC_v2_79/trainLogDetailsCur.txt
+Project Source/NIC_v2/NIC_v2_79/NIC_solver_MobileNetV1.prototxt
+Project Source/NIC_v2/NIC_v2_196/trainLogCur.txt
+Project Source/NIC_v2/NIC_v2_196/trainLogDetailsCur.txt
+Project Source/NIC_v2/NIC_v2_196/NIC_solver_MobileNetV1.prototxt
+Run experiments/run_experiment.sh
