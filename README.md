@@ -61,7 +61,7 @@ This will run the experiment on "run0" inside our docker image in interactive mo
 
 ## Content
 
-The content can be summarized as follows:
+The content of this repository can be summarized as follows:
 
 - The project source code (`Project Source` folder)
     -  `inc_training_Core50.py` contains the entry point;
@@ -69,8 +69,7 @@ The content can be summarized as follows:
     - The filelists used (`batch_filelists` subdirectory): for the proposed scenarios (NICv2 79, 196, 391) we provide a separate folder, each containing a sub-directory for each run. We used the first 5 runs in order to obtain the average test accuracy curves reported in our paper;
     - A MobileNetV1 pretrained with ImageNet (`models/MobileNetV1.caffemodel`);
     - The prototxt(s) describing the solvers and nets (`NIC_v2` folder);
-- Our customized version of Caffe and ready-to-use Docker buildscripts (`Run experiments/docker_image` folder);
-- A set of configuration scripts and the resources required to run the experiments (`Run experiments` folder)
+- A set of configuration scripts required to run the experiments (`Run experiments` folder)
 
 ## Core50 Dataset
 The Core50 Dataset can be downloaded from <https://vlomonaco.github.io/core50/index.html#download>
