@@ -6,7 +6,16 @@ A custom Caffe distribution packaged as a Docker image is used. More info and so
 
 ## Reference
 
-Paper coming soon!
+Our article is now available [here](https://arxiv.org/abs/1912.01100)!
+
+    @article{pellegrini2019latent,
+        title={Latent Replay for Real-Time Continual Learning},
+        author={Lorenzo Pellegrini and Gabriele Graffieti and Vincenzo Lomonaco and Davide Maltoni},
+        year={2019},
+        eprint={1912.01100},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG}
+    }
 
 ## Running the experiments
 You can run an experiment by following the steps below:
