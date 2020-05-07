@@ -4,6 +4,8 @@ This is a Caffe implementation of Latent Replay: a Continual Learning technique 
 
 A custom Caffe distribution packaged as a Docker image is used. More info and source code can be found [here](https://github.com/lrzpellegrini/CI-Customized-BVLC-caffe-docker).
 
+An official **PyTorch implementation** of the **AR1\*** and **CWR\*** algorithms with Latent Replay is also available [here](https://github.com/vlomonaco/ar1-pytorch/)!
+
 ## Reference
 
 Our article is now available [here](https://arxiv.org/abs/1912.01100)!
